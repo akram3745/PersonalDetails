@@ -1,0 +1,340 @@
+2021-12-24 10:30:54,950 [restartedMain] [36mc.t.e.TechnoelevateEssApplication[0;39m - Starting TechnoelevateEssApplication using Java 15.0.2 on LAPTOP-HVK7614P with PID 4712 (D:\BookMyDoctor\technoelevate-ess\target\classes started by ANAND in D:\BookMyDoctor\technoelevate-ess) 
+2021-12-24 10:30:55,355 [restartedMain] [36mc.t.e.TechnoelevateEssApplication[0;39m - No active profile set, falling back to default profiles: default 
+2021-12-24 10:30:55,859 [restartedMain] [36mo.s.b.d.e.DevToolsPropertyDefaultsPostProcessor[0;39m - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2021-12-24 10:30:55,861 [restartedMain] [36mo.s.b.d.e.DevToolsPropertyDefaultsPostProcessor[0;39m - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2021-12-24 10:31:00,818 [restartedMain] [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode. 
+2021-12-24 10:31:01,129 [restartedMain] [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Finished Spring Data repository scanning in 279 ms. Found 3 JPA repository interfaces. 
+2021-12-24 10:31:03,496 [restartedMain] [36mo.s.b.w.e.t.TomcatWebServer[0;39m - Tomcat initialized with port(s): 8080 (http) 
+2021-12-24 10:31:03,541 [restartedMain] [36mo.a.c.c.StandardService[0;39m - Starting service [Tomcat] 
+2021-12-24 10:31:03,542 [restartedMain] [36mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/9.0.55] 
+2021-12-24 10:31:04,196 [restartedMain] [36mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring embedded WebApplicationContext 
+2021-12-24 10:31:04,197 [restartedMain] [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - Root WebApplicationContext: initialization completed in 8333 ms 
+2021-12-24 10:31:04,769 [restartedMain] [36mo.h.j.i.u.LogHelper[0;39m - HHH000204: Processing PersistenceUnitInfo [name: default] 
+2021-12-24 10:31:05,039 [restartedMain] [36mo.h.Version[0;39m - HHH000412: Hibernate ORM core version 5.6.1.Final 
+2021-12-24 10:31:05,805 [restartedMain] [36mo.h.a.c.Version[0;39m - HCANN000001: Hibernate Commons Annotations {5.1.2.Final} 
+2021-12-24 10:31:06,948 [restartedMain] [36mc.z.h.HikariDataSource[0;39m - HikariPool-1 - Starting... 
+2021-12-24 10:31:07,535 [restartedMain] [36mc.z.h.HikariDataSource[0;39m - HikariPool-1 - Start completed. 
+2021-12-24 10:31:07,625 [restartedMain] [36mo.h.d.Dialect[0;39m - HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect 
+2021-12-24 10:31:11,327 [restartedMain] [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform] 
+2021-12-24 10:31:11,361 [restartedMain] [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default' 
+2021-12-24 10:31:13,000 [restartedMain] [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning 
+2021-12-24 10:31:13,994 [restartedMain] [36mo.s.b.d.a.OptionalLiveReloadServer[0;39m - LiveReload server is running on port 35729 
+2021-12-24 10:31:14,205 [restartedMain] [36mo.s.b.w.e.t.TomcatWebServer[0;39m - Tomcat started on port(s): 8080 (http) with context path '' 
+2021-12-24 10:31:14,240 [restartedMain] [36mc.t.e.TechnoelevateEssApplication[0;39m - Started TechnoelevateEssApplication in 25.364 seconds (JVM running for 30.677) 
+2021-12-24 10:34:38,012 [Thread-5] [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Closing JPA EntityManagerFactory for persistence unit 'default' 
+2021-12-24 10:34:38,020 [Thread-5] [36mc.z.h.HikariDataSource[0;39m - HikariPool-1 - Shutdown initiated... 
+2021-12-24 10:34:38,141 [Thread-5] [36mc.z.h.HikariDataSource[0;39m - HikariPool-1 - Shutdown completed. 
+2021-12-24 10:34:38,468 [restartedMain] [36mc.t.e.TechnoelevateEssApplication[0;39m - Starting TechnoelevateEssApplication using Java 15.0.2 on LAPTOP-HVK7614P with PID 4712 (D:\BookMyDoctor\technoelevate-ess\target\classes started by ANAND in D:\BookMyDoctor\technoelevate-ess) 
+2021-12-24 10:34:38,469 [restartedMain] [36mc.t.e.TechnoelevateEssApplication[0;39m - No active profile set, falling back to default profiles: default 
+2021-12-24 10:34:43,336 [restartedMain] [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode. 
+2021-12-24 10:34:43,814 [restartedMain] [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Finished Spring Data repository scanning in 475 ms. Found 3 JPA repository interfaces. 
+2021-12-24 10:34:44,735 [restartedMain] [36mo.s.b.w.e.t.TomcatWebServer[0;39m - Tomcat initialized with port(s): 8080 (http) 
+2021-12-24 10:34:44,738 [restartedMain] [36mo.a.c.c.StandardService[0;39m - Starting service [Tomcat] 
+2021-12-24 10:34:44,740 [restartedMain] [36mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/9.0.55] 
+2021-12-24 10:34:44,814 [restartedMain] [36mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring embedded WebApplicationContext 
+2021-12-24 10:34:44,814 [restartedMain] [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - Root WebApplicationContext: initialization completed in 6332 ms 
+2021-12-24 10:34:44,946 [restartedMain] [36mo.h.j.i.u.LogHelper[0;39m - HHH000204: Processing PersistenceUnitInfo [name: default] 
+2021-12-24 10:34:44,958 [restartedMain] [36mc.z.h.HikariDataSource[0;39m - HikariPool-2 - Starting... 
+2021-12-24 10:34:44,986 [restartedMain] [36mc.z.h.HikariDataSource[0;39m - HikariPool-2 - Start completed. 
+2021-12-24 10:34:44,996 [restartedMain] [36mo.h.d.Dialect[0;39m - HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect 
+2021-12-24 10:34:47,424 [restartedMain] [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform] 
+2021-12-24 10:34:47,425 [restartedMain] [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default' 
+2021-12-24 10:34:48,235 [restartedMain] [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning 
+2021-12-24 10:34:48,890 [restartedMain] [36mo.s.b.d.a.OptionalLiveReloadServer[0;39m - LiveReload server is running on port 35729 
+2021-12-24 10:34:48,936 [restartedMain] [36mo.s.b.w.e.t.TomcatWebServer[0;39m - Tomcat started on port(s): 8080 (http) with context path '' 
+2021-12-24 10:34:48,946 [restartedMain] [36mc.t.e.TechnoelevateEssApplication[0;39m - Started TechnoelevateEssApplication in 10.587 seconds (JVM running for 245.384) 
+2021-12-24 10:34:48,951 [restartedMain] [36mo.s.b.d.a.ConditionEvaluationDeltaLoggingListener[0;39m - Condition evaluation unchanged 
+2021-12-24 10:35:06,796 [http-nio-8080-exec-1] [36mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2021-12-24 10:35:06,797 [http-nio-8080-exec-1] [36mo.s.w.s.DispatcherServlet[0;39m - Initializing Servlet 'dispatcherServlet' 
+2021-12-24 10:35:06,800 [http-nio-8080-exec-1] [36mo.s.w.s.DispatcherServlet[0;39m - Completed initialization in 3 ms 
+2021-12-24 10:35:08,578 [http-nio-8080-exec-1] [36mo.s.w.s.m.m.a.ExceptionHandlerExceptionResolver[0;39m - Failure in @ExceptionHandler com.technoelevate.ess.exception.ExceptionHandlerController#badRequest(CustomException, WebRequest) 
+java.lang.IllegalStateException: Could not resolve parameter [0] in public com.technoelevate.ess.message.ErrorMessage com.technoelevate.ess.exception.ExceptionHandlerController.badRequest(com.technoelevate.ess.exception.CustomException,org.springframework.web.context.request.WebRequest): No suitable resolver
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:176) ~[spring-web-5.3.13.jar:5.3.13]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:146) ~[spring-web-5.3.13.jar:5.3.13]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-5.3.13.jar:5.3.13]
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:428) ~[spring-webmvc-5.3.13.jar:5.3.13]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:75) ~[spring-webmvc-5.3.13.jar:5.3.13]
+	at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:142) ~[spring-webmvc-5.3.13.jar:5.3.13]
+	at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:80) ~[spring-webmvc-5.3.13.jar:5.3.13]
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1327) ~[spring-webmvc-5.3.13.jar:5.3.13]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1138) ~[spring-webmvc-5.3.13.jar:5.3.13]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1084) ~[spring-webmvc-5.3.13.jar:5.3.13]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963) ~[spring-webmvc-5.3.13.jar:5.3.13]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.13.jar:5.3.13]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) ~[spring-webmvc-5.3.13.jar:5.3.13]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681) ~[tomcat-embed-core-9.0.55.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.13.jar:5.3.13]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764) ~[tomcat-embed-core-9.0.55.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.55.jar:9.0.55]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.13.jar:5.3.13]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.13.jar:5.3.13]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.13.jar:5.3.13]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.13.jar:5.3.13]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.13.jar:5.3.13]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.13.jar:5.3.13]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at java.base/java.lang.Thread.run(Thread.java:832) ~[na:na]
+2021-12-24 10:35:08,878 [http-nio-8080-exec-1] [36mo.a.c.c.C.[.[.[.[dispatcherServlet][0;39m - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.Past' validating type 'java.lang.String'. Check configuration for 'savePerson.person.dob'] with root cause 
+javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.Past' validating type 'java.lang.String'. Check configuration for 'savePerson.person.dob'
+	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.getExceptionForNullValidator(ConstraintTree.java:116) ~[hibernate-validator-6.2.0.Final.jar:6.2.0.Final]
+	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.getInitializedConstraintValidator(ConstraintTree.java:162) ~[hibernate-validator-6.2.0.Final.jar:6.2.0.Final]
+	at org.hibernate.validator.internal.engine.constraintvalidation.SimpleConstraintTree.validateConstraints(SimpleConstraintTree.java:54) ~[hibernate-validator-6.2.0.Final.jar:6.2.0.Final]
+	at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.validateConstraints(ConstraintTree.java:75) ~[hibernate-validator-6.2.0.Final.jar:6.2.0.Final]
+	at org.hibernate.validator.internal.metadata.core.MetaConstraint.doValidateConstraint(MetaConstraint.java:130) ~[hibernate-validator-6.2.0.Final.jar:6.2.0.Final]
+	at org.hibernate.validator.internal.metadata.core.MetaConstraint.validateConstraint(MetaConstraint.java:123) ~[hibernate-validator-6.2.0.Final.jar:6.2.0.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateMetaConstraint(ValidatorImpl.java:555) ~[hibernate-validator-6.2.0.Final.jar:6.2.0.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForSingleDefaultGroupElement(ValidatorImpl.java:518) ~[hibernate-validator-6.2.0.Final.jar:6.2.0.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForDefaultGroup(ValidatorImpl.java:488) ~[hibernate-validator-6.2.0.Final.jar:6.2.0.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForCurrentGroup(ValidatorImpl.java:450) ~[hibernate-validator-6.2.0.Final.jar:6.2.0.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateInContext(ValidatorImpl.java:400) ~[hibernate-validator-6.2.0.Final.jar:6.2.0.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateCascadedAnnotatedObjectForCurrentGroup(ValidatorImpl.java:629) ~[hibernate-validator-6.2.0.Final.jar:6.2.0.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateCascadedConstraints(ValidatorImpl.java:590) ~[hibernate-validator-6.2.0.Final.jar:6.2.0.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParametersInContext(ValidatorImpl.java:880) ~[hibernate-validator-6.2.0.Final.jar:6.2.0.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParameters(ValidatorImpl.java:283) ~[hibernate-validator-6.2.0.Final.jar:6.2.0.Final]
+	at org.hibernate.validator.internal.engine.ValidatorImpl.validateParameters(ValidatorImpl.java:235) ~[hibernate-validator-6.2.0.Final.jar:6.2.0.Final]
+	at org.springframework.validation.beanvalidation.MethodValidationInterceptor.invoke(MethodValidationInterceptor.java:110) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.13.jar:5.3.13]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:753) ~[spring-aop-5.3.13.jar:5.3.13]
+	at org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:123) ~[spring-tx-5.3.13.jar:5.3.13]
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:388) ~[spring-tx-5.3.13.jar:5.3.13]
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119) ~[spring-tx-5.3.13.jar:5.3.13]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.13.jar:5.3.13]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:753) ~[spring-aop-5.3.13.jar:5.3.13]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:698) ~[spring-aop-5.3.13.jar:5.3.13]
+	at com.technoelevate.ess.service.PersonServiceImpl$$EnhancerBySpringCGLIB$$e32bf164.savePerson(<generated>) ~[classes/:na]
+	at com.technoelevate.ess.controller.PersonController.SavePerson(PersonController.java:62) ~[classes/:na]
+	at com.technoelevate.ess.controller.PersonController$$FastClassBySpringCGLIB$$b2835c2.invoke(<generated>) ~[classes/:na]
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218) ~[spring-core-5.3.13.jar:5.3.13]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:783) ~[spring-aop-5.3.13.jar:5.3.13]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163) ~[spring-aop-5.3.13.jar:5.3.13]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:753) ~[spring-aop-5.3.13.jar:5.3.13]
+	at org.springframework.validation.beanvalidation.MethodValidationInterceptor.invoke(MethodValidationInterceptor.java:123) ~[spring-context-5.3.13.jar:5.3.13]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.13.jar:5.3.13]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:753) ~[spring-aop-5.3.13.jar:5.3.13]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:698) ~[spring-aop-5.3.13.jar:5.3.13]
+	at com.technoelevate.ess.controller.PersonController$$EnhancerBySpringCGLIB$$fcdc38d4.SavePerson(<generated>) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-5.3.13.jar:5.3.13]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150) ~[spring-web-5.3.13.jar:5.3.13]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-5.3.13.jar:5.3.13]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.3.13.jar:5.3.13]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.13.jar:5.3.13]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.13.jar:5.3.13]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067) ~[spring-webmvc-5.3.13.jar:5.3.13]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963) ~[spring-webmvc-5.3.13.jar:5.3.13]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.13.jar:5.3.13]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) ~[spring-webmvc-5.3.13.jar:5.3.13]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681) ~[tomcat-embed-core-9.0.55.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.13.jar:5.3.13]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764) ~[tomcat-embed-core-9.0.55.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.55.jar:9.0.55]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.13.jar:5.3.13]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.13.jar:5.3.13]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.13.jar:5.3.13]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.13.jar:5.3.13]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.13.jar:5.3.13]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.13.jar:5.3.13]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.55.jar:9.0.55]
+	at java.base/java.lang.Thread.run(Thread.java:832) ~[na:na]
+2021-12-24 10:35:40,100 [Thread-7] [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Closing JPA EntityManagerFactory for persistence unit 'default' 
+2021-12-24 10:35:40,102 [Thread-7] [36mc.z.h.HikariDataSource[0;39m - HikariPool-2 - Shutdown initiated... 
+2021-12-24 10:35:40,140 [Thread-7] [36mc.z.h.HikariDataSource[0;39m - HikariPool-2 - Shutdown completed. 
+2021-12-24 10:35:40,768 [restartedMain] [36mc.t.e.TechnoelevateEssApplication[0;39m - Starting TechnoelevateEssApplication using Java 15.0.2 on LAPTOP-HVK7614P with PID 4712 (D:\BookMyDoctor\technoelevate-ess\target\classes started by ANAND in D:\BookMyDoctor\technoelevate-ess) 
+2021-12-24 10:35:40,771 [restartedMain] [36mc.t.e.TechnoelevateEssApplication[0;39m - No active profile set, falling back to default profiles: default 
+2021-12-24 10:35:42,192 [restartedMain] [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode. 
+2021-12-24 10:35:42,238 [restartedMain] [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Finished Spring Data repository scanning in 44 ms. Found 3 JPA repository interfaces. 
+2021-12-24 10:35:42,605 [restartedMain] [36mo.s.b.w.e.t.TomcatWebServer[0;39m - Tomcat initialized with port(s): 8080 (http) 
+2021-12-24 10:35:42,612 [restartedMain] [36mo.a.c.c.StandardService[0;39m - Starting service [Tomcat] 
+2021-12-24 10:35:42,614 [restartedMain] [36mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/9.0.55] 
+2021-12-24 10:35:42,736 [restartedMain] [36mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring embedded WebApplicationContext 
+2021-12-24 10:35:42,737 [restartedMain] [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - Root WebApplicationContext: initialization completed in 1933 ms 
+2021-12-24 10:35:43,006 [restartedMain] [36mo.h.j.i.u.LogHelper[0;39m - HHH000204: Processing PersistenceUnitInfo [name: default] 
+2021-12-24 10:35:43,037 [restartedMain] [36mc.z.h.HikariDataSource[0;39m - HikariPool-3 - Starting... 
+2021-12-24 10:35:43,072 [restartedMain] [36mc.z.h.HikariDataSource[0;39m - HikariPool-3 - Start completed. 
+2021-12-24 10:35:43,073 [restartedMain] [36mo.h.d.Dialect[0;39m - HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect 
+2021-12-24 10:35:44,039 [restartedMain] [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform] 
+2021-12-24 10:35:44,039 [restartedMain] [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default' 
+2021-12-24 10:35:44,626 [restartedMain] [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning 
+2021-12-24 10:35:44,971 [restartedMain] [36mo.s.b.d.a.OptionalLiveReloadServer[0;39m - LiveReload server is running on port 35729 
+2021-12-24 10:35:45,016 [restartedMain] [36mo.s.b.w.e.t.TomcatWebServer[0;39m - Tomcat started on port(s): 8080 (http) with context path '' 
+2021-12-24 10:35:45,024 [restartedMain] [36mc.t.e.TechnoelevateEssApplication[0;39m - Started TechnoelevateEssApplication in 4.571 seconds (JVM running for 301.461) 
+2021-12-24 10:35:45,027 [restartedMain] [36mo.s.b.d.a.ConditionEvaluationDeltaLoggingListener[0;39m - Condition evaluation unchanged 
+2021-12-24 10:36:12,537 [http-nio-8080-exec-2] [36mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2021-12-24 10:36:12,537 [http-nio-8080-exec-2] [36mo.s.w.s.DispatcherServlet[0;39m - Initializing Servlet 'dispatcherServlet' 
+2021-12-24 10:36:12,541 [http-nio-8080-exec-2] [36mo.s.w.s.DispatcherServlet[0;39m - Completed initialization in 3 ms 
+2021-12-24 10:36:14,615 [http-nio-8080-exec-2] [36mo.s.w.s.m.m.a.ExceptionHandlerExceptionResolver[0;39m - Resolved [com.technoelevate.ess.exception.CustomException: Something Went Wrong] 
+2021-12-24 10:38:12,922 [Thread-11] [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Closing JPA EntityManagerFactory for persistence unit 'default' 
+2021-12-24 10:38:12,927 [Thread-11] [36mc.z.h.HikariDataSource[0;39m - HikariPool-3 - Shutdown initiated... 
+2021-12-24 10:38:12,944 [Thread-11] [36mc.z.h.HikariDataSource[0;39m - HikariPool-3 - Shutdown completed. 
+2021-12-24 10:38:13,841 [restartedMain] [36mc.t.e.TechnoelevateEssApplication[0;39m - Starting TechnoelevateEssApplication using Java 15.0.2 on LAPTOP-HVK7614P with PID 4712 (D:\BookMyDoctor\technoelevate-ess\target\classes started by ANAND in D:\BookMyDoctor\technoelevate-ess) 
+2021-12-24 10:38:13,843 [restartedMain] [36mc.t.e.TechnoelevateEssApplication[0;39m - No active profile set, falling back to default profiles: default 
+2021-12-24 10:38:14,499 [restartedMain] [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode. 
+2021-12-24 10:38:14,540 [restartedMain] [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Finished Spring Data repository scanning in 40 ms. Found 3 JPA repository interfaces. 
+2021-12-24 10:38:14,843 [restartedMain] [36mo.s.b.w.e.t.TomcatWebServer[0;39m - Tomcat initialized with port(s): 8080 (http) 
+2021-12-24 10:38:14,846 [restartedMain] [36mo.a.c.c.StandardService[0;39m - Starting service [Tomcat] 
+2021-12-24 10:38:14,847 [restartedMain] [36mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/9.0.55] 
+2021-12-24 10:38:14,964 [restartedMain] [36mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring embedded WebApplicationContext 
+2021-12-24 10:38:14,964 [restartedMain] [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - Root WebApplicationContext: initialization completed in 1114 ms 
+2021-12-24 10:38:15,319 [restartedMain] [36mo.h.j.i.u.LogHelper[0;39m - HHH000204: Processing PersistenceUnitInfo [name: default] 
+2021-12-24 10:38:15,366 [restartedMain] [36mc.z.h.HikariDataSource[0;39m - HikariPool-4 - Starting... 
+2021-12-24 10:38:15,377 [restartedMain] [36mc.z.h.HikariDataSource[0;39m - HikariPool-4 - Start completed. 
+2021-12-24 10:38:15,378 [restartedMain] [36mo.h.d.Dialect[0;39m - HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect 
+2021-12-24 10:38:16,139 [restartedMain] [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform] 
+2021-12-24 10:38:16,139 [restartedMain] [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default' 
+2021-12-24 10:38:16,799 [restartedMain] [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning 
+2021-12-24 10:38:17,079 [restartedMain] [36mo.s.b.d.a.OptionalLiveReloadServer[0;39m - LiveReload server is running on port 35729 
+2021-12-24 10:38:17,115 [restartedMain] [36mo.s.b.w.e.t.TomcatWebServer[0;39m - Tomcat started on port(s): 8080 (http) with context path '' 
+2021-12-24 10:38:17,128 [restartedMain] [36mc.t.e.TechnoelevateEssApplication[0;39m - Started TechnoelevateEssApplication in 4.005 seconds (JVM running for 453.565) 
+2021-12-24 10:38:17,134 [restartedMain] [36mo.s.b.d.a.ConditionEvaluationDeltaLoggingListener[0;39m - Condition evaluation unchanged 
+2021-12-24 10:38:21,506 [http-nio-8080-exec-2] [36mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2021-12-24 10:38:21,506 [http-nio-8080-exec-2] [36mo.s.w.s.DispatcherServlet[0;39m - Initializing Servlet 'dispatcherServlet' 
+2021-12-24 10:38:21,513 [http-nio-8080-exec-2] [36mo.s.w.s.DispatcherServlet[0;39m - Completed initialization in 7 ms 
+2021-12-24 10:38:22,846 [http-nio-8080-exec-2] [36mo.s.w.s.m.m.a.ExceptionHandlerExceptionResolver[0;39m - Resolved [com.technoelevate.ess.exception.CustomException: Something Went Wrong] 
+2021-12-24 10:39:15,362 [Thread-15] [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Closing JPA EntityManagerFactory for persistence unit 'default' 
+2021-12-24 10:39:15,364 [Thread-15] [36mc.z.h.HikariDataSource[0;39m - HikariPool-4 - Shutdown initiated... 
+2021-12-24 10:39:15,403 [Thread-15] [36mc.z.h.HikariDataSource[0;39m - HikariPool-4 - Shutdown completed. 
+2021-12-24 10:39:15,959 [restartedMain] [36mc.t.e.TechnoelevateEssApplication[0;39m - Starting TechnoelevateEssApplication using Java 15.0.2 on LAPTOP-HVK7614P with PID 4712 (D:\BookMyDoctor\technoelevate-ess\target\classes started by ANAND in D:\BookMyDoctor\technoelevate-ess) 
+2021-12-24 10:39:15,960 [restartedMain] [36mc.t.e.TechnoelevateEssApplication[0;39m - No active profile set, falling back to default profiles: default 
+2021-12-24 10:39:16,847 [restartedMain] [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode. 
+2021-12-24 10:39:16,883 [restartedMain] [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Finished Spring Data repository scanning in 33 ms. Found 3 JPA repository interfaces. 
+2021-12-24 10:39:17,208 [restartedMain] [36mo.s.b.w.e.t.TomcatWebServer[0;39m - Tomcat initialized with port(s): 8080 (http) 
+2021-12-24 10:39:17,209 [restartedMain] [36mo.a.c.c.StandardService[0;39m - Starting service [Tomcat] 
+2021-12-24 10:39:17,210 [restartedMain] [36mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/9.0.55] 
+2021-12-24 10:39:17,326 [restartedMain] [36mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring embedded WebApplicationContext 
+2021-12-24 10:39:17,326 [restartedMain] [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - Root WebApplicationContext: initialization completed in 1351 ms 
+2021-12-24 10:39:17,457 [restartedMain] [36mo.h.j.i.u.LogHelper[0;39m - HHH000204: Processing PersistenceUnitInfo [name: default] 
+2021-12-24 10:39:17,481 [restartedMain] [36mc.z.h.HikariDataSource[0;39m - HikariPool-5 - Starting... 
+2021-12-24 10:39:17,497 [restartedMain] [36mc.z.h.HikariDataSource[0;39m - HikariPool-5 - Start completed. 
+2021-12-24 10:39:17,498 [restartedMain] [36mo.h.d.Dialect[0;39m - HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect 
+2021-12-24 10:39:18,911 [restartedMain] [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform] 
+2021-12-24 10:39:18,911 [restartedMain] [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default' 
+2021-12-24 10:39:19,778 [restartedMain] [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning 
+2021-12-24 10:39:21,014 [restartedMain] [36mo.s.b.d.a.OptionalLiveReloadServer[0;39m - LiveReload server is running on port 35729 
+2021-12-24 10:39:21,378 [restartedMain] [36mo.s.b.w.e.t.TomcatWebServer[0;39m - Tomcat started on port(s): 8080 (http) with context path '' 
+2021-12-24 10:39:21,388 [restartedMain] [36mc.t.e.TechnoelevateEssApplication[0;39m - Started TechnoelevateEssApplication in 5.69 seconds (JVM running for 517.825) 
+2021-12-24 10:39:21,394 [restartedMain] [36mo.s.b.d.a.ConditionEvaluationDeltaLoggingListener[0;39m - Condition evaluation unchanged 
+2021-12-24 10:39:25,439 [http-nio-8080-exec-2] [36mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2021-12-24 10:39:25,439 [http-nio-8080-exec-2] [36mo.s.w.s.DispatcherServlet[0;39m - Initializing Servlet 'dispatcherServlet' 
+2021-12-24 10:39:25,442 [http-nio-8080-exec-2] [36mo.s.w.s.DispatcherServlet[0;39m - Completed initialization in 2 ms 
+2021-12-24 10:40:55,953 [Thread-19] [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Closing JPA EntityManagerFactory for persistence unit 'default' 
+2021-12-24 10:40:55,956 [Thread-19] [36mc.z.h.HikariDataSource[0;39m - HikariPool-5 - Shutdown initiated... 
+2021-12-24 10:40:55,968 [Thread-19] [36mc.z.h.HikariDataSource[0;39m - HikariPool-5 - Shutdown completed. 
+2021-12-24 10:40:56,265 [restartedMain] [36mc.t.e.TechnoelevateEssApplication[0;39m - Starting TechnoelevateEssApplication using Java 15.0.2 on LAPTOP-HVK7614P with PID 4712 (D:\BookMyDoctor\technoelevate-ess\target\classes started by ANAND in D:\BookMyDoctor\technoelevate-ess) 
+2021-12-24 10:40:56,268 [restartedMain] [36mc.t.e.TechnoelevateEssApplication[0;39m - No active profile set, falling back to default profiles: default 
+2021-12-24 10:40:57,407 [restartedMain] [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode. 
+2021-12-24 10:40:57,458 [restartedMain] [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Finished Spring Data repository scanning in 38 ms. Found 3 JPA repository interfaces. 
+2021-12-24 10:40:57,856 [restartedMain] [36mo.s.b.w.e.t.TomcatWebServer[0;39m - Tomcat initialized with port(s): 8080 (http) 
+2021-12-24 10:40:57,859 [restartedMain] [36mo.a.c.c.StandardService[0;39m - Starting service [Tomcat] 
+2021-12-24 10:40:57,859 [restartedMain] [36mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/9.0.55] 
+2021-12-24 10:40:58,008 [restartedMain] [36mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring embedded WebApplicationContext 
+2021-12-24 10:40:58,008 [restartedMain] [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - Root WebApplicationContext: initialization completed in 1721 ms 
+2021-12-24 10:40:58,128 [restartedMain] [36mo.h.j.i.u.LogHelper[0;39m - HHH000204: Processing PersistenceUnitInfo [name: default] 
+2021-12-24 10:40:58,245 [restartedMain] [36mc.z.h.HikariDataSource[0;39m - HikariPool-6 - Starting... 
+2021-12-24 10:40:58,340 [restartedMain] [36mc.z.h.HikariDataSource[0;39m - HikariPool-6 - Start completed. 
+2021-12-24 10:40:58,342 [restartedMain] [36mo.h.d.Dialect[0;39m - HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect 
+2021-12-24 10:41:00,835 [restartedMain] [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform] 
+2021-12-24 10:41:00,835 [restartedMain] [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default' 
+2021-12-24 10:41:01,313 [restartedMain] [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning 
+2021-12-24 10:41:01,587 [restartedMain] [36mo.s.b.d.a.OptionalLiveReloadServer[0;39m - LiveReload server is running on port 35729 
+2021-12-24 10:41:01,697 [restartedMain] [36mo.s.b.w.e.t.TomcatWebServer[0;39m - Tomcat started on port(s): 8080 (http) with context path '' 
+2021-12-24 10:41:01,706 [restartedMain] [36mc.t.e.TechnoelevateEssApplication[0;39m - Started TechnoelevateEssApplication in 5.59 seconds (JVM running for 618.143) 
+2021-12-24 10:41:01,709 [restartedMain] [36mo.s.b.d.a.ConditionEvaluationDeltaLoggingListener[0;39m - Condition evaluation unchanged 
+2021-12-24 10:41:08,676 [http-nio-8080-exec-2] [36mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2021-12-24 10:41:08,677 [http-nio-8080-exec-2] [36mo.s.w.s.DispatcherServlet[0;39m - Initializing Servlet 'dispatcherServlet' 
+2021-12-24 10:41:08,678 [http-nio-8080-exec-2] [36mo.s.w.s.DispatcherServlet[0;39m - Completed initialization in 1 ms 
+2021-12-24 10:45:58,626 [Thread-23] [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Closing JPA EntityManagerFactory for persistence unit 'default' 
+2021-12-24 10:45:58,627 [Thread-23] [36mc.z.h.HikariDataSource[0;39m - HikariPool-6 - Shutdown initiated... 
+2021-12-24 10:45:58,654 [Thread-23] [36mc.z.h.HikariDataSource[0;39m - HikariPool-6 - Shutdown completed. 
+2021-12-24 10:45:58,929 [restartedMain] [36mc.t.e.TechnoelevateEssApplication[0;39m - Starting TechnoelevateEssApplication using Java 15.0.2 on LAPTOP-HVK7614P with PID 4712 (D:\BookMyDoctor\technoelevate-ess\target\classes started by ANAND in D:\BookMyDoctor\technoelevate-ess) 
+2021-12-24 10:45:58,931 [restartedMain] [36mc.t.e.TechnoelevateEssApplication[0;39m - No active profile set, falling back to default profiles: default 
+2021-12-24 10:46:00,788 [restartedMain] [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode. 
+2021-12-24 10:46:00,836 [restartedMain] [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Finished Spring Data repository scanning in 45 ms. Found 3 JPA repository interfaces. 
+2021-12-24 10:46:01,168 [restartedMain] [36mo.s.b.w.e.t.TomcatWebServer[0;39m - Tomcat initialized with port(s): 8080 (http) 
+2021-12-24 10:46:01,169 [restartedMain] [36mo.a.c.c.StandardService[0;39m - Starting service [Tomcat] 
+2021-12-24 10:46:01,170 [restartedMain] [36mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/9.0.55] 
+2021-12-24 10:46:01,218 [restartedMain] [36mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring embedded WebApplicationContext 
+2021-12-24 10:46:01,219 [restartedMain] [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - Root WebApplicationContext: initialization completed in 2281 ms 
+2021-12-24 10:46:01,455 [restartedMain] [36mo.h.j.i.u.LogHelper[0;39m - HHH000204: Processing PersistenceUnitInfo [name: default] 
+2021-12-24 10:46:01,463 [restartedMain] [36mc.z.h.HikariDataSource[0;39m - HikariPool-7 - Starting... 
+2021-12-24 10:46:01,507 [restartedMain] [36mc.z.h.HikariDataSource[0;39m - HikariPool-7 - Start completed. 
+2021-12-24 10:46:01,508 [restartedMain] [36mo.h.d.Dialect[0;39m - HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect 
+2021-12-24 10:46:02,631 [restartedMain] [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform] 
+2021-12-24 10:46:02,631 [restartedMain] [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default' 
+2021-12-24 10:46:02,960 [restartedMain] [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning 
+2021-12-24 10:46:03,396 [restartedMain] [36mo.s.b.d.a.OptionalLiveReloadServer[0;39m - LiveReload server is running on port 35729 
+2021-12-24 10:46:03,469 [restartedMain] [36mo.s.b.w.e.t.TomcatWebServer[0;39m - Tomcat started on port(s): 8080 (http) with context path '' 
+2021-12-24 10:46:03,526 [restartedMain] [36mc.t.e.TechnoelevateEssApplication[0;39m - Started TechnoelevateEssApplication in 4.664 seconds (JVM running for 919.963) 
+2021-12-24 10:46:03,529 [restartedMain] [36mo.s.b.d.a.ConditionEvaluationDeltaLoggingListener[0;39m - Condition evaluation unchanged 
+2021-12-24 10:46:09,606 [http-nio-8080-exec-2] [36mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2021-12-24 10:46:09,606 [http-nio-8080-exec-2] [36mo.s.w.s.DispatcherServlet[0;39m - Initializing Servlet 'dispatcherServlet' 
+2021-12-24 10:46:09,611 [http-nio-8080-exec-2] [36mo.s.w.s.DispatcherServlet[0;39m - Completed initialization in 4 ms 
+2021-12-24 10:59:12,098 [Thread-27] [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Closing JPA EntityManagerFactory for persistence unit 'default' 
+2021-12-24 10:59:12,101 [Thread-27] [36mc.z.h.HikariDataSource[0;39m - HikariPool-7 - Shutdown initiated... 
+2021-12-24 10:59:12,258 [Thread-27] [36mc.z.h.HikariDataSource[0;39m - HikariPool-7 - Shutdown completed. 
+2021-12-24 10:59:13,529 [restartedMain] [36mc.t.e.TechnoelevateEssApplication[0;39m - Starting TechnoelevateEssApplication using Java 15.0.2 on LAPTOP-HVK7614P with PID 4712 (D:\BookMyDoctor\technoelevate-ess\target\classes started by ANAND in D:\BookMyDoctor\technoelevate-ess) 
+2021-12-24 10:59:13,530 [restartedMain] [36mc.t.e.TechnoelevateEssApplication[0;39m - No active profile set, falling back to default profiles: default 
+2021-12-24 10:59:14,290 [restartedMain] [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode. 
+2021-12-24 10:59:14,325 [restartedMain] [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Finished Spring Data repository scanning in 34 ms. Found 3 JPA repository interfaces. 
+2021-12-24 10:59:14,644 [restartedMain] [36mo.s.b.w.e.t.TomcatWebServer[0;39m - Tomcat initialized with port(s): 8080 (http) 
+2021-12-24 10:59:14,645 [restartedMain] [36mo.a.c.c.StandardService[0;39m - Starting service [Tomcat] 
+2021-12-24 10:59:14,646 [restartedMain] [36mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/9.0.55] 
+2021-12-24 10:59:14,740 [restartedMain] [36mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring embedded WebApplicationContext 
+2021-12-24 10:59:14,740 [restartedMain] [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - Root WebApplicationContext: initialization completed in 1204 ms 
+2021-12-24 10:59:15,487 [restartedMain] [36mo.h.j.i.u.LogHelper[0;39m - HHH000204: Processing PersistenceUnitInfo [name: default] 
+2021-12-24 10:59:15,498 [restartedMain] [36mc.z.h.HikariDataSource[0;39m - HikariPool-8 - Starting... 
+2021-12-24 10:59:15,545 [restartedMain] [36mc.z.h.HikariDataSource[0;39m - HikariPool-8 - Start completed. 
+2021-12-24 10:59:15,545 [restartedMain] [36mo.h.d.Dialect[0;39m - HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect 
+2021-12-24 10:59:16,929 [restartedMain] [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform] 
+2021-12-24 10:59:16,929 [restartedMain] [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default' 
+2021-12-24 10:59:17,704 [restartedMain] [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning 
